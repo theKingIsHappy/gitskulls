@@ -1,7 +1,7 @@
 # 排除所有.开头的隐藏文件:
 .*
 # 排除123.txt
-*123.txt
+123.txt
 
 # 不排除.gitignore
 !.gitignore
